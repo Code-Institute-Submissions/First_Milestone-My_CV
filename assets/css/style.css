@@ -29,7 +29,6 @@ header {
     min-width: 100px;
     max-height: 150px;
     max-width: 150px;
-    margin-left: 15px;
 }
 
 .list-inline-item:not(:last-child) {
@@ -38,9 +37,11 @@ header {
 
 .menucontainer {
     font-size: 0;
+    position: relative;
+    left: 500px;
 }
 
 #nav li {
-    font-size: 14px;
-    padding: 0;
+    font-size: 10px;
+    padding: 0; 
 }

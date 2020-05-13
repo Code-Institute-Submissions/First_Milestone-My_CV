@@ -6,12 +6,16 @@ body {
     background-color: #dfe0e5;
 }
 
+header {
+    background-color: #696969;
+}
+
 /*--------------------------------------------Header */
 
 header {
     margin-top: 10px;
-    margin-left: 25px;
-    margin-right: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
     min-width: 50%;
     min-height: 50%;
 }
@@ -23,4 +27,20 @@ header {
     background-size: cover;   
     min-height: 100px;
     min-width: 100px;
+    max-height: 150px;
+    max-width: 150px;
+    margin-left: 15px;
+}
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+
+.menucontainer {
+    font-size: 0;
+}
+
+#nav li {
+    font-size: 14px;
+    padding: 0;
 }

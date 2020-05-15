@@ -18,14 +18,38 @@ header {
     padding: 20px 10px;
 }
 
-
-
 .logo {
     background: url(../images/bear_background.jpg);
     float: left;
+    color: red;
     text-align: center;
     padding: 12px;
     border-radius: 4px;
     max-width: 250px;
     max-height: 250px;
+}
+
+.header-right a {
+     color: black;
+     text-align: center;
+     padding: 12px;
+     text-decoration: none;
+     font-size: 18px;
+     line-height: 25px;
+     border-radius: 4px;
+}
+
+.header-right {
+  float: right;
+}
+
+@media screen and (max-width: 500px) {
+  .header a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .header-right {
+    float: none;
+  }
 }

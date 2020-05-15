@@ -81,6 +81,15 @@ header {
     left: 0;
 }
 
+.peppino {
+    background: url(../images/originale1.jpg) no-repeat center center fixed;
+    width: 1000px;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}
+
 /*-----------------------------------------------Hover.css */
 
 .hvr-underline-from-center:before {

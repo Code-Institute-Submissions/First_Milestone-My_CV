@@ -81,6 +81,11 @@ header {
     left: 0;
 }
 
+/*-----------------------------------------------Hover.css */
+
+.hvr-underline-from-center:before {
+   background: #e84610;
+}
 
 /*-----------------------------------------------Footer */
 
@@ -93,4 +98,25 @@ header {
   text-align: center;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
+}
+
+.social-links {
+    padding-top: 15px;
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 4px;
+    font-size: 20px;
+    line-height: 10px;
+    text-align: center;
+    color: #fafafa;
+    background: #8f8f8f;
+    transition: all 0.35s ease-in-out;
+    }
+
+    .social-links li a i:hover {
+    background: #e84610;
 }

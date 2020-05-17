@@ -90,6 +90,23 @@ header {
 	position: absolute;
 	z-index: -1;
 	background-size: cover;
+    
+}
+
+.story {
+    text-align: left;
+    padding: 40px 20px 20px;
+    color: black;
+    font-family: "Balsamiq Sans", sans-serif;
+    font-size: 50px;
+}
+
+.testo {
+    text-align: left;
+    padding: 20px 50px;
+    color: black;
+    font-family: "Roboto", sans-serif;
+    font-size: 30px;
 }
 
 /*-----------------------------------------------Hover.css */

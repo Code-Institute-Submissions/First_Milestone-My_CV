@@ -86,12 +86,11 @@ header {
 /*-----------------------------------------------Section_Index */
 
 .bgk_index {
-    background: url(../images/banner.png) no-repeat center;
-    width: 100%; 
-	height: 100%;
-    position: absolute;
-	z-index: -1;
-	background-size: cover;
+    background: url(../images/banner.png);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 825px;
 }
 
 .quote {
@@ -148,7 +147,7 @@ header {
   text-align: center;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
-  margin: 0;
+  padding: 0;
 }
 
 .social-links {

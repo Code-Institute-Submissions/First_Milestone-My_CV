@@ -1,8 +1,8 @@
-# Your Project's Name
+# User Centric Front-End Development Milestone Project
 
-One or two paragraphs providing an overview of your project.
+# Curriculum Vitae
 
-Essentially, this part is your sales pitch.
+This Website was developed for Code Institute's User Centic Front End Development Project 1 and is an advertising website of my Curriculum Vitae to promote myself as a Web Developer.It's a four pages responsive website each area is build to made easily the navigation trough the contents and to give all the info needed to the customers interested to 
  
 ## UX
  

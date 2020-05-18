@@ -39,7 +39,17 @@ For this project I used HTML5, CSS3 and Bootstrap 4.4.1 .
 
 ## Testing
 
+To test this project I used various browsers and devices:
 
+Chrome
+ThinkPad X1 Carbon
+Samsung S8
+Huawei p20 pro
+
+Safari
+Iphone X
+
+During testing i used Chrome Developer tools to test the responsive design on different size and the features of the page on different width.
 
 ## Deployment
 

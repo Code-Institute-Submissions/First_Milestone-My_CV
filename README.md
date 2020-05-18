@@ -19,15 +19,19 @@ I have divided the website in 4 pages:
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+The basic structure of each page is the same, this to allow the user a simple navigation.
+
+The structure is as follow:
+
+- Header composed of: Logo on the top left and a menu on top right.
+
+- Background Image: on which the phrases designed with CSS have been reported.
+
+- Footer: A responsive footer in which is implemented the use of Font Awesome and Hover.css-link for the social networks.
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+My aim is to improve and increment the section of the website created once my studies will be completed. During this period and at the end of it, I would be able to add new functions thanks to the skills I will develop. In particular, I am thinking of a thank you windows after the submission of the contact form and a huge implemetn of my projects section. 
 
 ### Features Left to Implement
 - Another feature idea
@@ -41,12 +45,12 @@ For this project I used HTML5, CSS3 and Bootstrap 4.4.1 .
 
 To test this project I used various browsers and devices:
 
-Chrome
+Chrome =
 ThinkPad X1 Carbon
 Samsung S8
 Huawei p20 pro
 
-Safari
+Safari = 
 Iphone X
 
 During testing i used Chrome Developer tools to test the responsive design on different size and the features of the page on different width.

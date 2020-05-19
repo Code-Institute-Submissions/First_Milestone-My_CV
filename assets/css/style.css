@@ -195,13 +195,18 @@ header {
     padding: 0;
 }
 
-.cv {
+.cv, .cvd {
     text-align: left;
     font-family: "Balsamiq Sans", sans-serif;
+    color: black;
     font-size: 45px; 
     padding-top: 15px;
     margin: 0;
     padding: 0;
+}
+
+.cvd:hover {
+    color: #e84610;
 }
 
 ul {
@@ -210,7 +215,7 @@ ul {
 }
 
 @media screen and (max-width: 700px) {
-  .contacts,.phone,.email,.cv {
+  .contacts,.phone,.email,.cv,.cvd {
         text-align: left;
         font-size: 25px;
         padding-top: 230px;
@@ -255,6 +260,6 @@ ul {
     background: #8f8f8f;
 }
 
-    .social-links li a i:hover {
+.social-links li a i:hover {
     background: #e84610;
 }

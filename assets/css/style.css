@@ -18,10 +18,6 @@ footer {
 
 /*-----------------------------------------------Header */
 
-* {
-  box-sizing: border-box;
-}
-
 header {
     padding: 20px 10px;
     border-bottom-left-radius: 5px;
@@ -124,34 +120,30 @@ header {
 
 /*-----------------------------------------------Section_About_Me */
 
-.bgk_aboutme{
-    background: url(../images/originale1.jpg) no-repeat center top;
-    width: 100%; 
-	height: 100%; 
-	right: 0;
-	position: fixed; 
-	z-index: -1;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-}
-
 .story {
     text-align: left;
-    padding: 40px 20px 20px;
+    padding: 20px 20px;
     color: black;
     font-family: "Balsamiq Sans", sans-serif;
     font-size: 50px;
+    margin: 0;
 }
 
 .testo {
     text-align: left;
-    padding: 20px 50px;
+    padding: 20px;
     color: black;
     font-family: "Roboto", sans-serif;
     font-size: 30px;
+    margin: 0;
 }
+
+.rightimage {
+    float: right;
+    max-width: 500px;
+    height: auto;
+}
+
 
 /*-----------------------------------------------Section_Contacts */
 

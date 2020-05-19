@@ -171,7 +171,6 @@ header {
     height: 32px;
     padding: 12px 0;
     border-radius: 4px;
-    font-size: 20px;
     line-height: 10px;
     text-align: center;
     color: #fafafa;
@@ -214,7 +213,7 @@ ul {
   .contacts,.phone,.email,.cv {
         text-align: left;
         font-size: 25px;
-        padding-top: 60px;
+        padding-top: 230px;
         padding-left: 10px;
         margin: 0;
   }

@@ -279,8 +279,8 @@ header {
     .bigbox { 
     border: 7px solid #e84610;
     border-radius: 4px;
-    width: 190px;
-    height: 571px;
+    width: 355px;
+    height: 365px;
     margin: 10px;
     margin-bottom: 66px;
 }
@@ -289,13 +289,13 @@ header {
 @media screen and (max-width: 600px) {
 .firstprojlink {
     background-color: #696969;
-    width: 176px;
+    width: 342px;
     height: 131px;
     border: 7px solid #696969;
     border-radius: 4px;
     padding: 37px;
     margin-left: 0;
-    background: url(../images/favicon.png);
+    background: url(../images/SALVO1.png);
     background-position: center;
     background-size: cover;
 }

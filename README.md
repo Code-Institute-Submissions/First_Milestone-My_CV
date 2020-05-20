@@ -37,25 +37,25 @@ The navbar is made up of 4 separate pages:
 
 #### _Home_
 
-In this section I wanted to give a clear idea of the background composed of an image, taken from Google Image and retouched, and of my mantra reported with fonts taken from Google font, Balsamiq sans.
+In this section I wanted to give a first impression of myself using that particular background image, it has been taken from Google Image and retouched. I have also included my mantra using fonts taken from Google font, Balsamiq sans.
 
 Link to the [Home Page](https://salvobevi.github.io/First_Milestone-My_CV/).
 
 #### _About Me_
 
-In this section I gave a description of myself and my work history. There is also a photo of me.
+In this section I gave a description of myself and my work history. On the right of the screen I have also incuded a picture of myself.
 
 Link to the [About Me](https://salvobevi.github.io/First_Milestone-My_CV/aboutme.html).
 
 #### _Projects_
 
-In this section I have reported and linked my projects built by myself.
+In this section I have created a box with the title and a brief of this first project, including an image that is actually a link to the project itself. This page will be implemented with my future projects. 
 
 Link to the [Projects](https://salvobevi.github.io/First_Milestone-My_CV/projects.html).
 
 #### _Contacts_
 
-In this section I have reported my personal data by phone and email. also I gave the possibility to download a hard copy of my CV.
+In this section I have used a background image take from Google photo and retouched. I have included my personal data such as phone number, email address and the possibility to download my cv. 
 
 Link to the [Contacts](https://salvobevi.github.io/First_Milestone-My_CV/contacts.html).
 

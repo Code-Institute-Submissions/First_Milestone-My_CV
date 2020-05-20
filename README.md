@@ -31,7 +31,7 @@ The structure is as follow:
 
 * **Section**: composed of a background image on which the phrases designed with CSS have been reported.
 
-* **Footer** : A responsive footer in which is implemented the use of Font Awesome and Hover.css-link for the social networks.
+* **Footer** : a responsive footer in which is implemented the use of Font Awesome and Hover.css-link for the social networks.
  
 The navbar is made up of 4 separate pages:
 
@@ -45,19 +45,19 @@ Link to the [Home Page](https://salvobevi.github.io/First_Milestone-My_CV/).
 
 In this section I gave a description of myself and my work history. There is also a photo of me.
 
-Link to the [Home Page](https://salvobevi.github.io/First_Milestone-My_CV/aboutme.html).
+Link to the [About Me](https://salvobevi.github.io/First_Milestone-My_CV/aboutme.html).
 
 #### _Projects_
 
 In this section I have reported and linked my projects built by myself.
 
-Link to the [Home Page](https://salvobevi.github.io/First_Milestone-My_CV/projects.html).
+Link to the [Projects](https://salvobevi.github.io/First_Milestone-My_CV/projects.html).
 
 #### _Contacts_
 
 In this section I have reported my personal data by phone and email. also I gave the possibility to download a hard copy of my CV.
 
-Link to the [Home Page](https://salvobevi.github.io/First_Milestone-My_CV/contacts.html).
+Link to the [Contacts](https://salvobevi.github.io/First_Milestone-My_CV/contacts.html).
 
 ### Existing Features
 
